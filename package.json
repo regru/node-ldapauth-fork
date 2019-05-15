@@ -30,7 +30,7 @@
     "@types/ldapjs": "^1.0.0",
     "@types/node": "^10.12.12",
     "bcryptjs": "^2.4.0",
-    "ldapjs": "^1.0.2",
+    "ldapjs": "git+https://github.com/regru/node-ldapjs.git#support_node_10",
     "lru-cache": "^5.1.1"
   },
   "devDependencies": {
